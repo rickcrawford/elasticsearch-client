@@ -1,7 +1,7 @@
 elasticsearch-client
 ======================
 
-Managed connection library with health check for ElasticSearch
+Managed connection library for dropwizard with health check for ElasticSearch
 
 The following configuration settings are available:
 ```yaml
